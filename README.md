@@ -1,2 +1,2 @@
 # GoodDNA
-2020 Open Source Project
+2020 Blockchain Project
